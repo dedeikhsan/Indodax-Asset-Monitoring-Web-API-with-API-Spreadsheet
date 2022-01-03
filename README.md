@@ -4,4 +4,4 @@ Program ini dibuat untuk melihat harga asset terbaru dari Indodax (aset, harga t
 
 Link dokumentasi API Indodax: https://indodax.com/downloads/INDODAXCOM-API-DOCUMENTATION.pdf
 
-Link API Spreadsheet: https://console.cloud.google.com/
+Link API Spreadsheet: https://developers.google.com/
